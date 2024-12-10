@@ -1,4 +1,4 @@
-const APIKEY="e0f342673c94455c9f48d52f021f346f";
+const APIKEY="3814f4ed4cdb4a67994ffff6dc611c9b";
 const url="https://newsapi.org/v2/everything?q=";
 window.addEventListener('load',()=> fetechNews("India"));
 
